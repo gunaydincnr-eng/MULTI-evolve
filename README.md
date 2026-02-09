@@ -1,5 +1,9 @@
 # Overview
 
+<p align="center">
+  <img src="multievolve/multievolve_workflow.png" alt="Workflow image" width="600">
+</p>
+
 Official repository for MULTI-evolve (model-guided, universal, targeted installation of multi-mutants), an end-to-end framework for efficiently engineering hyperactive multi-mutants. 
 
 **The MULTI-evolve Python package has the following uses:**
@@ -72,7 +76,9 @@ In the root directory of the repository run:
 conda activate multievolve
 streamlit run app.py
 ```
-![GUI interface image 1](multievolve/streamlit_1.png)
+<p align="center">
+  <img src="multievolve/streamlit_1.png" alt="GUI interface image 1" width="600">
+</p>
 
 ### Command-line
 
