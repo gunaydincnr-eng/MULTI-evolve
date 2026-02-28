@@ -1,3 +1,7 @@
+# NOTE
+
+This repo will no longer be updated. For the latest updates, please visit https://github.com/ArcInstitute/MULTI-evolve.
+
 # Overview
 
 <p align="center">
@@ -5,8 +9,6 @@
 </p>
 
 Official repository for MULTI-evolve (model-guided, universal, targeted installation of multi-mutants), an end-to-end framework for efficiently engineering hyperactive multi-mutants. 
-
-For the latest updates, please visit https://github.com/ArcInstitute/MULTI-evolve.
 
 **The MULTI-evolve Python package has the following uses:**
 
